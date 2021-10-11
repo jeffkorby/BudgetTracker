@@ -19,4 +19,4 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page,
 and added to their transaction history when their connection is back online.
 ```
-[heroku deployment](https://calm-ocean-37538.herokuapp.com/)
+[Heroku Deployment](https://calm-ocean-37538.herokuapp.com/)
